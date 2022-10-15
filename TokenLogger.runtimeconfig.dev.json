@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Clyde Ocean\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Clyde Ocean\\.nuget\\packages"
+    ]
+  }
+}
